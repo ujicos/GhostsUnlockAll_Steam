@@ -1,5 +1,6 @@
 # Call of Duty: Ghosts - Unlock All (Steam)
 A modification that unlocks everything, and sets you to max prestige for Call of Duty Ghosts (IW6) on Steam.
+It also unlocks hidden content, such as the Spectrum Camo, and other DLC Camos.
 
 ## How to use:
 - Download [Process Hacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download)</br> (or any other injector, but in that case i assume you know what you're doing)
