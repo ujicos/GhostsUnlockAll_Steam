@@ -18,4 +18,4 @@ This is considered a breach of the terms of service, and would be considered che
 - Click build
 
 ## Credits
-Nearly all of the code is made by various devs over at [XLabs](https://github.com/XLabs)</br>, taken from their client [IW6x](https://github.com/XLabs/iw6x-client)</br>
+Nearly all of the code is made by various devs over at [XLabs](https://github.com/XLabs), taken from their client [IW6x](https://github.com/XLabs/iw6x-client)
